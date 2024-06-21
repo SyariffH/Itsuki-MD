@@ -1,1 +1,27 @@
-
+{ 
+ "owner": {
+   "number": ["6285771037880","6287815577055"],
+   "instagram": "https://instagram.com/syrff.h",
+   "gmail": "@gmail.com",
+   "web": "https://github.com/SyariffH"
+ },       
+ "bot": {
+   "name": "ITSUKIBOT",
+   "premium": ["6285771037880"],
+   "about": "Itsuki Nakano Whatsapp Bot",
+   "source": "https://github.com/Hyzerr/Hyzer-MD",
+   "footer": "_© Simple WhatsApp Bot By Hyzer Official _"
+ },
+ "sticker": {
+   "packname": "Made By",
+   "author": "Itsuki Nakano Bot"
+ },
+ "image": {
+   "menu": "https://telegra.ph/file/4d00acf1238238cd12c17.jpg",
+   "logo": "https://telegra.ph/file/803922ea6af1f187e14a8.jpg"
+ },
+ "group": {
+   "link": "https://chat.whatsapp.com/IxBejqgYlXKENKPJsF7EOP",
+   "id": "120363023934136490@g.us"
+ }
+}
